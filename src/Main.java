@@ -18,14 +18,6 @@ public class Main {
         System.out.println("initials : "+firstNameChar[0] + "." + lastNameChar[0]);
 
 
-        /*for (int i = 0; i <firstNameChar.length; i++) {
-            System.out.print(firstNameChar[i] + " ");
-        }*/
-
-
-      /*  for (int i = 0; i< lastNameChar.length; i++) {
-            System.out.print(lastNameChar[i] + " ");
-        }*/
 
 
     } // end of Main Method
